@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snippet_list_row.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\layout\\snippet_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_home.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\layout\\page_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_passcode.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\layout\\page_passcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_list.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\layout\\page_list.xml"
+    }
+]

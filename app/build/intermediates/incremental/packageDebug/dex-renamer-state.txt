@@ -1,0 +1,7 @@
+#Thu Dec 08 15:21:45 CST 2016
+base.0=C\:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_402262af0381e40e8f3e7fe7a4a7b21800d4e0f1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_85a30ae965e9dc79cff9c8b7b8bfc4edba3078dc\\classes.dex
+base.1=C\:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_85a30ae965e9dc79cff9c8b7b8bfc4edba3078dc
+file.0=C\:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_402262af0381e40e8f3e7fe7a4a7b21800d4e0f1\\classes.dex

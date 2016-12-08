@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_normal.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\edittext_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_pressed.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\edittext_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_cursor.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\edittext_cursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_background.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\drawable\\edittext_background.xml"
+    }
+]

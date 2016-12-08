@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FFCCCCCC</color>
+    <color name="light_blue">#FF78c8e6</color>
+    <color name="light_gray">#FFE5E5E5</color>
+    <string name="app_list">App List</string>
+    <string name="app_name">AppLock</string>
+    <string name="change_passcode">Change passcode</string>
+    <string name="disable_passcode">Disable passcode</string>
+    <string name="enable_passcode">Enable passcode</string>
+    <string name="enter_old_passcode">Enter old passcode</string>
+    <string name="enter_passcode">Enter passcode</string>
+    <string name="manage_passcode">Manage passcode</string>
+    <string name="passcode_wrong">Wrong passcode, please try again.</string>
+    <string name="reenter_passcode">Re-enter passcode</string>
+    <string name="setup_passcode">Setup Passcode</string>
+    <style name="PasscodeButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FF464646</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">48dp</item>
+    </style>
+    <style name="PasscodeInputIStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:maxLength">1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:inputType">textPassword|number</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\anim\\nothing.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\anim\\nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle5.xml",
+        "source": "C:\\Users\\Michael\\AndroidStudioProjects\\AppLock\\app\\src\\main\\res\\anim\\cycle5.xml"
+    }
+]
